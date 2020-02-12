@@ -59,15 +59,12 @@ a:hover {
     display: flex;
     flex-direction: column;
     text-align: center;
+    margin: 2px solid black;
 }
 
-.biography-nav li {
-    list-style-type: none;
-    justify-content: center;
-}
-
-h4 ul li {
-    justify-content: flex-end;
+.fact-list {
+    text-align: center;
+    justify-content: space-evenly;
 }
 
 .fa {
